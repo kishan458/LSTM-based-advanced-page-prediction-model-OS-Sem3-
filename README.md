@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>🧠 Hybrid Memory Analytics</h1>
+  <h1> Hybrid Memory Analytics</h1>
   <p><b>LSTM-Augmented Page Prediction & Cache Optimization</b></p>
   <p><i>A Deep Learning approach to proactive memory management and demand paging.</i></p>
 </div>
 
 <hr />
 
-<h2>📖 Project Overview</h2>
+<h2> Project Overview</h2>
 <p>
   The <b>LSTM-based Advanced Page Prediction Model</b> is a high-performance memory management simulation. It bridges low-level <b>C system programming</b> with <b>Recurrent Neural Networks (RNN)</b>. By monitoring a process's memory access patterns in real-time, the system uses an LSTM model to predict future page requests and "pre-fetch" them into a <b>Hybrid LRU Cache</b>.
 </p>
@@ -24,7 +24,7 @@
 
 <hr />
 
-<h2>🛠 Tech Stack</h2>
+<h2> Tech Stack</h2>
 <table width="100%">
   <tr>
     <th>Layer</th>
