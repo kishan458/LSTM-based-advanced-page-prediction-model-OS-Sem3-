@@ -15,7 +15,7 @@
 
 <h2> Key Features</h2>
 <ul>
-  <li><b>⚡Real-Time Paging:</b> Monitors active processes via <code>/proc/[pid]/pagemap</code> to extract Physical Frame Numbers (PFN).</li>
+  <li><b>Real-Time Paging:</b> Monitors active processes via <code>/proc/[pid]/pagemap</code> to extract Physical Frame Numbers (PFN).</li>
   <li><b>LSTM Predictive Engine:</b> A PyTorch-powered model that learns memory "strides" to forecast the next page trajectory.</li>
   <li><b>Hybrid LRU Logic:</b> Compares a <b>Standard LRU</b> (reactive) against an <b>LSTM-Augmented LRU</b> (proactive).</li>
   <li><b>Live Analytics:</b> A Streamlit dashboard featuring real-time Plotly charts for Actual vs. Predicted access.</li>
